@@ -2,11 +2,14 @@
 
 * [Welcome!](README.md)
 
-## The Company
+## Istio
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Getting started](istio/getting-started.md)
 
-## The Formal Stuff
+## AWS
 
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [AWS SSO](aws/aws-sso.md)
+
+## Kubernetes
+
+* [Nginx ingress](kubernetes/nginx-ingress.md)
