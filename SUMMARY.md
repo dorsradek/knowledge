@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Websites](websites.md)
 
 ## Istio
 
@@ -12,4 +13,4 @@
 
 ## Kubernetes
 
-* [Nginx ingress](kubernetes/nginx-ingress.md)
+* [nginx-ingress](kubernetes/nginx-ingress.md)

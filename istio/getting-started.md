@@ -4,7 +4,7 @@
 
 ## Installation
 
-The simplest is using the Helm chart
+The simplest is using the Helm chart.
 
 ### base
 
