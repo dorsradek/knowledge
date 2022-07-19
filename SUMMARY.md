@@ -14,3 +14,7 @@
 ## Kubernetes
 
 * [nginx-ingress](kubernetes/nginx-ingress.md)
+
+## GitOps
+
+* [ArgoCD](gitops/argocd.md)
